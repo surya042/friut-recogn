@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>pomegranate-2.jpg</filename>
+	<path>E:\labelImg-master\New folder\pomegranate-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>791</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomegranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>39</ymin>
+			<xmax>933</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>orange-2.jpg</filename>
+	<path>E:\labelImg-master\New folder\orange-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3485</width>
+		<height>2548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>903</ymin>
+			<xmax>1532</xmax>
+			<ymax>2319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1586</xmin>
+			<ymin>1422</ymin>
+			<xmax>3429</xmax>
+			<ymax>2414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>8</ymin>
+			<xmax>2546</xmax>
+			<ymax>1562</ymax>
+		</bndbox>
+	</object>
+</annotation>

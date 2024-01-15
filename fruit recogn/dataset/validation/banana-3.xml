@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>banana-3.jpg</filename>
+	<path>E:\labelImg-master\New folder\banana-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>851</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>93</ymin>
+			<xmax>781</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>apple-2.jpg</filename>
+	<path>E:\labelImg-master\New folder\apple-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>232</ymin>
+			<xmax>664</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>250</ymin>
+			<xmax>1221</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1349</xmin>
+			<ymin>186</ymin>
+			<xmax>1990</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>

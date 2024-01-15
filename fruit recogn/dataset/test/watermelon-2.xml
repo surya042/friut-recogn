@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>watermelon-2.jpg</filename>
+	<path>E:\labelImg-master\New folder\watermelon-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5114</width>
+		<height>4795</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1759</xmin>
+			<ymin>281</ymin>
+			<xmax>5091</xmax>
+			<ymax>4276</ymax>
+		</bndbox>
+	</object>
+</annotation>

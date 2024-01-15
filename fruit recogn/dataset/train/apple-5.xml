@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>apple-5.jpg</filename>
+	<path>E:\labelImg-master\New folder\apple-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2218</width>
+		<height>2216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eaten apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>481</ymin>
+			<xmax>1993</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+</annotation>

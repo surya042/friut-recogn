@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>pineapple-1.jpg</filename>
+	<path>E:\labelImg-master\New folder\pineapple-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>582</ymin>
+			<xmax>834</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>11</ymin>
+			<xmax>513</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+</annotation>
